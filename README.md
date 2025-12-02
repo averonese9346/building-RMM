@@ -1,0 +1,2 @@
+This repository contains files for a project that I created for my Artificial Intelligence graduate course. The objective was to create an RNN and compare that model against a popular LLM. I chose to create a model that was trained on fantasy data sets in order to create character outlines and arcs for Dungeons and Dragons campagins. 
+The resulting code are most of the preparation files for this task. There are a few more; however, they are too large for Github's 25 MB limit. All of the .py files are included, but some of the .json files were too large. 
